@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "267677873318",
+    "firebase_url": "https://vueschool-firebase-auth-d1efe.firebaseio.com",
+    "project_id": "vueschool-firebase-auth-d1efe",
+    "storage_bucket": "vueschool-firebase-auth-d1efe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267677873318:android:1d20aa393d0b07a5f13067",
+        "android_client_info": {
+          "package_name": "com.example.firebaseuisample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267677873318-8ej6ahi0mvtq68r9fchr6qunkqln4c6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseuisample",
+            "certificate_hash": "172ea39c5f5459f2d459942533a7f02a4a3fc5c1"
+          }
+        },
+        {
+          "client_id": "267677873318-82cdlanhcunnkbc77m7stend3nkbctrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEtLwLgX10i36CsoKsZMpbWCCdC-Sf2Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267677873318-82cdlanhcunnkbc77m7stend3nkbctrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
